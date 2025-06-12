@@ -1,0 +1,3 @@
+/MotionPlanner:
+  ros__parameters:
+    mode: 'square'
